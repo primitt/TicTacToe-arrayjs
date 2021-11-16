@@ -7,6 +7,6 @@ I built this for fun, i just wanted to build the most hard version of tictactoe 
 - The checking method to see if you got 3 in a row
 ## CheckList
 
-[ ] Build the main method to check
-[ ] Add more moves (the only moves are A1 and A2, and that is just for player1)
-[ ] Make it look good
+[] Build the main method to check
+[] Add more moves (the only moves are A1 and A2, and that is just for player1)
+[] Make it look good
