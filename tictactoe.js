@@ -10,7 +10,7 @@ const prompt = require('prompt-sync')();
 let toprow = ["", "", ""];
 let middlerow = ["", "", ""];
 let bottomrow = ["", "", ""];
-console.log("1   2   3");
+console.log("     1    2   3");
 console.log("A ", toprow);
 console.log("");
 console.log("B ", middlerow);
@@ -27,6 +27,8 @@ class check {
     }
   }
 }
+
+
 while (true) {
     while (true) {
         let player1 = prompt("Player 1 Enter Move > ");
